@@ -1,0 +1,22 @@
+  
+{
+  "short_name": "AIS",
+  "name": "Invasive Species Tracking",
+  "description": "PWA to track and report invasive species",
+  "icons": [
+    {
+      "src": "android-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "background_color": "#FF0000",
+  "scope": ".",
+  "display": "standalone",
+  "start_url": "/nk1217gv/AIS/AISindex.html",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": true,
+  "dir": "ltr",
+  "lang": "en-US",
+  "theme_color": "#FF0000"
+}
